@@ -4,8 +4,8 @@
 <h1 align="center">My projects</h1>
 
 <h3 align="center">[dhcp starvation attack]</h3>
-- A script that was designed to perform a DDoS attack on an interface 
-(https://github.com/ronthesoul/Projects/blob/main/dhAFRICA.py)
+<p>- A script that was designed to perform a DDoS attack on an interface</p> 
+<p>(https://github.com/ronthesoul/Projects/blob/main/dhAFRICA.py)</p>
 
 <h3 align="center">[http brute force attack]</h3>
 - A script that performs a brute force attack on a website login page 
