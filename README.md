@@ -8,7 +8,7 @@
 <p>(https://github.com/ronthesoul/Projects/blob/main/dhAFRICA.py)</p>
 
 <h3 align="center">[http brute force attack]</h3>
-- A script that performs a brute force attack on a website login page 
+- A script that performs a brute force attack on a website login page<br>
 (https://github.com/ronthesoul/Projects/blob/main/http_bruteforce.py)
 
 <h3 align="center">[host discovery tool]</h3>
